@@ -1,7 +1,7 @@
 # Business-name-generator
 >> Create a business name generator by combining list of adjectives,shop name and another word.
 
->> Ajectives :
+>> Adjectives :
 1. Govind
 2. Shri
 3. Bansal
